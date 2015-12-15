@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b85d0031-10fc-4772-96ca-bf101c40276c</dc:identifier>
+        <dc:title>The Go Programming Language</dc:title>
+        <dc:creator opf:file-as="Kernighan, Brian W." opf:role="aut">Brian W. Kernighan</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.44.1) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-11-15T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;The Go Programming Language&lt;strong&gt; &lt;/strong&gt;is the authoritative resource for any programmer who wants to learn Go. It shows how to write clear and idiomatic Go to solve real-world problems. The book does not assume prior knowledge of Go nor experience with any specific language, so you’ll find it accessible whether you’re most comfortable with JavaScript, Ruby, Python, Java, or C++.&lt;/p&gt;&lt;p&gt;01. The first chapter is a tutorial on the basic concepts of Go, introduced through programs for file I/O and text processing, simple graphics, and web clients and servers.&lt;/p&gt;&lt;p&gt;02. Early chapters cover the structural elements of Go programs: syntax, control flow, data types, and the organization of a program into packages, files, and functions. The examples illustrate many packages from the standard library and show how to create new ones of your own. Later chapters explain the package mechanism in more detail, and how to build, test, and maintain projects using the go tool.&lt;/p&gt;&lt;p&gt;03. The chapters on methods and interfaces introduce Go’s unconventional approach to object-oriented programming, in which methods can be declared on any type and interfaces are implicitly satisfied. They explain the key principles of encapsulation, composition, and substitutability using realistic examples.&lt;/p&gt;&lt;p&gt;04. Two chapters on concurrency present in-depth approaches to this increasingly important topic. The first, which covers the basic mechanisms of goroutines and channels, illustrates the style known as communicating sequential processes for which Go is renowned. The second covers more traditional aspects of concurrency with shared variables. These chapters provide a solid foundation for programmers encountering concurrency for the first time.&lt;/p&gt;&lt;p&gt;05. The final two chapters explore lower-level features of Go. One covers the art of metaprogramming using reflection. The other shows how to use the unsafe package to step outside the type system for special situations, and how to use the cgo tool to create Go bindings for C libraries.&lt;/p&gt;&lt;p&gt;The book features hundreds of interesting and practical examples of well-written Go code that cover the whole language, its most important packages, and a wide range of applications. Each chapter has exercises to test your understanding and explore extensions and alternatives. Source code is freely available for download from http://gopl.io/ and may be conveniently fetched, built, and installed using the go get command.&lt;/p&gt;&lt;p&gt;
+
+
+&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Addison-Wesley Professional</dc:publisher>
+        <dc:identifier opf:scheme="AMAZON">B0184N7WWS</dc:identifier>
+        <dc:identifier opf:scheme="ISBN">9780134190440</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">B0184N7WWS</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers &amp; Technology</dc:subject>
+        <dc:subject>Programming Languages</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <meta content="{&quot;Brian W. Kernighan&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="8" name="calibre:rating"/>
+        <meta content="2015-11-26T09:24:30.251000+00:00" name="calibre:timestamp"/>
+        <meta content="Go Programming Language, The" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

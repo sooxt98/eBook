@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2159</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9ade1295-8ae9-4e9d-a8db-4387dc1ab295</dc:identifier>
+        <dc:title>Mastering Python Regular Expressions</dc:title>
+        <dc:creator opf:file-as="Lpez, Flix, Romero, Vctor" opf:role="aut">Lpez, Flix, Romero, Vctor</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Lpez, Flix, Romero, Vctor&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-03-31T09:14:00+00:00" name="calibre:timestamp"/>
+        <meta content="Mastering Python Regular Expressions" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Mastering Python Regular Expressions - Lpez, Flix, Romero, Vctor.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

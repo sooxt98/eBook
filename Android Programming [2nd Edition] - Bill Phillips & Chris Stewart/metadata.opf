@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1c323d8d-dac9-4ea7-abe6-9aac3953402f</dc:identifier>
+        <dc:title>Android Programming</dc:title>
+        <dc:creator opf:file-as="Phillips, Bill &amp; Stewart, Chris" opf:role="aut">Bill Phillips</dc:creator>
+        <dc:creator opf:file-as="Phillips, Bill &amp; Stewart, Chris" opf:role="aut">Chris Stewart</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.27.0) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2015-08-01T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;*Android Programming: The Big Nerd Ranch Guide * is an introductory Android book for programmers with Java experience. &lt;/p&gt;&lt;p&gt;Based on Big Nerd Ranch's popular Android Bootcamp course, this guide will lead you through the wilderness using hands-on example apps combined with clear explanations of key concepts and APIs. This book focuses on practical techniques for developing apps compatible with Android 4.1 (Jelly Bean) and up, including coverage of Lollipop and material design. &lt;/p&gt;&lt;p&gt;Write and run code every step of the way, creating apps that integrate with other Android apps, download and display pictures from the web, play sounds, and more. Each chapter and app has been designed and tested to provide the knowledge and experience you need to get started in Android development. &lt;/p&gt;&lt;p&gt;Big Nerd Ranch specializes in developing and designing innovative applications for clients around the world. Our experts teach others through our books, bootcamps, and onsite training. Whether it's Android, iOS, Ruby and Ruby on Rails, Cocoa, Mac OS X, JavaScript, HTML5 or UX/UI, we've got you covered.&lt;/p&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Big Nerd Ranch Guides</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9780134171456</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">B0136ZXIMM</dc:identifier>
+        <dc:identifier opf:scheme="MOBI-ASIN">114d559c-0ec5-40fc-ae10-cca45e53a162</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Computers &amp; Technology</dc:subject>
+        <dc:subject>Mobile Phones; Tablets &amp; E-Readers</dc:subject>
+        <dc:subject>Programming &amp; App Development</dc:subject>
+        <dc:subject>Programming</dc:subject>
+        <dc:subject>Reference</dc:subject>
+        <dc:subject>Big Nerd Ranch Guides</dc:subject>
+        <dc:subject>Android Programming</dc:subject>
+        <dc:subject>COM051460</dc:subject>
+        <meta content="{&quot;Bill Phillips&quot;: &quot;&quot;, &quot;Chris Stewart&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-11-14T18:02:22.614000+00:00" name="calibre:timestamp"/>
+        <meta content="Android Programming" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

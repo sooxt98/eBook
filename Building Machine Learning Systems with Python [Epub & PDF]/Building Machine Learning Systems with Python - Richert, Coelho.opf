@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">977</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1040653a-4935-4127-af0f-0b33d6dec9ec</dc:identifier>
+        <dc:title>Building Machine Learning Systems with Python</dc:title>
+        <dc:creator opf:file-as="Richert, Willi, Coelho, Luis Pedro" opf:role="aut">Richert, Willi, Coelho, Luis Pedro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Richert, Willi, Coelho, Luis Pedro&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2013-11-17T02:15:05+00:00" name="calibre:timestamp"/>
+        <meta content="Building Machine Learning Systems with Python" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Building Machine Learning Systems with Python - Richert, Willi, Coelho, Luis Pedro.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

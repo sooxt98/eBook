@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f4e082f1-dd73-4b23-8b8e-83e21e5518dc</dc:identifier>
+        <dc:title>Mathematical Game Theory and Applications</dc:title>
+        <dc:creator opf:file-as="Mazalov, Vladimir" opf:role="aut">Vladimir Mazalov</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (2.44.1) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-07-23T18:30:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;&lt;p&gt;&lt;strong&gt;An authoritative and quantitative approach to modern game theory with applications from economics, political science, military science, and finance&lt;/strong&gt;&lt;br&gt;
+&lt;br&gt;
+&lt;em&gt;Mathematical Game Theory&lt;/em&gt; combines both the theoretical and mathematical foundations of game theory with a series of complex applications along with topics presented in a logical progression to achieve a unified presentation of research results.  This book covers topics such as two-person games in strategic form, zero-sum games, N-person non-cooperative games in strategic form, two-person games in extensive form, parlor and sport games, bargaining theory, best-choice games, cooperative games and dynamic games. Several classical models used in economics are presented which include Cournot, Bertrand, Hotelling, and Stackelberg as well as coverage of modern branches of game theory such as negotiation models, potential games, parlor games, and best choice games.&lt;br&gt;
+&lt;br&gt;
+&lt;strong&gt;&lt;em&gt;Mathematical Game Theory:&lt;br&gt;
+&lt;/em&gt;&lt;/strong&gt;&lt;br&gt;
+ • Presents a good balance of both theoretical foundations and complex applications of game theory.&lt;br&gt;
+ • Features an in-depth analysis of parlor and sport games, networking games, and bargaining models.&lt;br&gt;
+ • Provides fundamental results in new branches of game theory, best choice games, network games, and dynamic games.&lt;br&gt;
+ • Presents numerous examples and exercises along with detailed solutions at the end of each chapter.&lt;br&gt;
+ • Is supported by an accompanying website featuring course slides and lecture content.&lt;br&gt;
+&lt;br&gt;
+Covering a host of important topics, this book provides a research springboard for graduate students and a reference for researchers who might be working in the areas of applied mathematics, operations research, computer science, or economical cybernetics.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>Wiley</dc:publisher>
+        <dc:identifier opf:scheme="ISBN">9781118899649</dc:identifier>
+        <dc:identifier opf:scheme="AMAZON">1118899628</dc:identifier>
+        <dc:identifier opf:scheme="GOOGLE">IJEYBAAAQBAJ</dc:identifier>
+        <dc:language>eng</dc:language>
+        <dc:subject>Mathematics</dc:subject>
+        <dc:subject>Game Theory</dc:subject>
+        <dc:subject>Applied</dc:subject>
+        <dc:subject>General</dc:subject>
+        <meta content="{&quot;Vladimir Mazalov&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2015-11-22T13:50:36.602000+00:00" name="calibre:timestamp"/>
+        <meta content="Mathematical Game Theory and Applications" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="cover.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">2950</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4f59b0b8-dc86-4b8d-8cf3-0474906c0ffe</dc:identifier>
+        <dc:title>Kali Linux</dc:title>
+        <dc:creator opf:file-as="Allen, Lee, Ali, Shakeel, Heriyanto, Tedi" opf:role="aut">Allen, Lee, Ali, Shakeel, Heriyanto, Tedi</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (0.9.42) [http://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:language>eng</dc:language>
+        <meta content="{&quot;Allen, Lee, Ali, Shakeel, Heriyanto, Tedi&quot;: &quot;&quot;}" name="calibre:author_link_map"/>
+        <meta content="2014-05-19T20:27:47+00:00" name="calibre:timestamp"/>
+        <meta content="Kali Linux" name="calibre:title_sort"/>
+    </metadata>
+    <guide>
+        <reference href="Kali Linux - Allen, Lee, Ali, Shakeel, Heriyanto, Tedi.jpg" title="Cover" type="cover"/>
+    </guide>
+</package>
